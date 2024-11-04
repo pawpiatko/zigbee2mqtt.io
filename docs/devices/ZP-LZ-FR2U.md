@@ -27,7 +27,8 @@ pageClass: device-page
 
 ### Pairing
 
-Press power button and hold for 10 seconds to enter pairing mode.
+Press power button and hold for 10 seconds to enter pairing mode. 
+
 <!-- Notes END: Do not edit below this line -->
 
 
